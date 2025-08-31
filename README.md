@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 Projects Showcase  
+## 🚀 Projects  
 
 | Project |
 |--------|
