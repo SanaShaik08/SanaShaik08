@@ -5,19 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=sanashaik08&label=Profile%20views&color=0e75b6&style=flat" alt="sanashaik08" />  
 </p>  
 
- 
-
----
-
-## 🚀 Projects  
-
-| Project |
-|--------|
-| [**PCOS Type Detection & Lifestyle Guidance (ML)**](#) |
-| [**NammaCityFix**](#) |
-| [**Object Detection (YOLO-V8n)**](#)|
-| [**Stock Trend Prediction**](#) |
-| [**WhisperVault**](#) |
 ---
 
 ## 💡 About Me  
@@ -29,6 +16,28 @@
 - 📫 How to reach me: **sanaajeelan@gmail.com**  
 - 👨‍💻 All of my projects are available at [Portfolio](#)  
 - 📄 Know about my experiences [Resume](#)  
+
+---
+
+## 🚀 Projects  
+
+<p align="center">
+  <a href="#" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/PCOS%20Type%20Detection%20&%20Lifestyle%20Guidance-0e75b6?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/NammaCityFix-6C63FF?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Object%20Detection%20(YOLO--V8n)-00BFA6?style=for-the-badge&logo=opencv&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Stock%20Trend%20Prediction-FF6584?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/WhisperVault-FFB347?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
