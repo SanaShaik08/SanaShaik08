@@ -10,12 +10,13 @@
 ## 💡 About Me  
 
 - 🔭 I’m currently working on **AI-driven health & civic solutions**  
-- 👯 I’m looking to collaborate on **Open Source AI Projects**  
+- 👩‍💻 I’m looking to collaborate on **Open Source AI Projects**  
 - 🌱 I’m currently learning **MLOps & Cloud Deployment**  
 - 💬 Ask me about **Machine Learning, React, YOLO, and AI solutions**  
 - 📫 How to reach me: **sanaajeelan@gmail.com**  
-- 👨‍💻 All of my projects are available at [Portfolio](#)  
+- 👩‍💻 All of my projects are available at [Portfolio](#)  
 - 📄 Know about my experiences [Resume](#)  
+
 
 ---
 
@@ -47,6 +48,7 @@
 <a href="https://linkedin.com/in/sana-shaik08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sana-shaik08" height="30" width="40" /></a>
 <a href="https://instagram.com/_._sanashaik_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_._sanashaik_._" height="30" width="40" /></a>
 </p>
+
 
 ---
 
